@@ -1,5 +1,3 @@
-# Rules
-
 ## TL;DR
 
 Be nice. Be mature. Follow the law. Listen to the mods. Ask your question
