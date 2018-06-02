@@ -10,11 +10,11 @@ people for programming help in DMs.
 
 # In full
 
-1. Follow the Discord service guidelines: <https://discordapp.com/guidelines> This
-is a welcoming community. All forms of abuse, belittlement, and rudeness are
-strictly forbidden. This includes unsubstantiated language/technology bashing,
-unprompted aggression, and anything unpleasant that someone else asks you to
-cease.
+1. Follow the Discord service guidelines: <https://discordapp.com/guidelines>
+   This is a welcoming community. All forms of abuse, belittlement, and
+   rudeness are strictly forbidden. This includes unsubstantiated
+   language/technology bashing, unprompted aggression, and anything unpleasant
+   that someone else asks you to cease.
 
 1. Memes and shitposts are not allowed outside of #off-topic, and they are
    discouraged in general. Excessive meme/shitpost spam will lead to kick/ban.
