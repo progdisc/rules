@@ -1,7 +1,6 @@
-## TL;DR
-
-Be nice. Be mature. Follow the law. Listen to the mods. Ask your question
-directly (*don't ask to ask*) and don't post across multiple channels or ask
+**tl;dr:** Be nice. Be mature. Follow the law. Listen
+to the mods. Ask your question directly (*don't ask to
+ask*) and don't post across multiple channels or ask
 people for programming help in DMs.
 
 ## In full
