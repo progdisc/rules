@@ -1,10 +1,12 @@
-# TL;DR
+# Rules
+
+## TL;DR
 
 Be nice. Be mature. Follow the law. Listen to the mods. Ask your question
 directly (*don't ask to ask*) and don't post across multiple channels or ask
 people for programming help in DMs.
 
-# In full
+## In full
 
 1. Follow the Discord service guidelines: <https://discordapp.com/guidelines>
    This is a welcoming community. All forms of abuse, belittlement, and
@@ -121,7 +123,7 @@ Every listing in #hire-people will adhere to these minimum requirements:
    Additionally, in this context, personal information should be exchanged via
    DM.
 
-# Forms of punishment
+## Forms of punishment
 
 1. **Informal warning:** Warning of potential breaking of the rules in chat,
    usually kept between a Mod and a user. Intended as a precaution.
@@ -143,7 +145,7 @@ Every listing in #hire-people will adhere to these minimum requirements:
    after a change of heart, or after careful consideration if you wish to
    accuse a Mod of abuse.
 
-# Helpers
+## Helpers
 
 1. The Helper role is for users who are active, helpful, and mature in our
    community.
@@ -160,7 +162,7 @@ Every listing in #hire-people will adhere to these minimum requirements:
    also nominate people that they are interested in obtaining the role. The
    role is voluntary and can be abandoned at any time.
 
-# Mods
+## Mods
  
 1. The Mods are the managers of the server and they enforce the rules.
 
