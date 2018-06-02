@@ -3,4 +3,4 @@ description: >
   The rules for our community.
 header_pages:
 
-theme: minima
+theme: jekyll-theme-cayman
