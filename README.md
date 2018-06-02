@@ -19,10 +19,9 @@ people for programming help in DMs.
    ask for explicit permission; that is unnecessary and forces people to wait
    for your return. 
 
-1. Please try using a search engine before asking your question.
-
-1. While we try to help everybody whatever their question, there are many
-   answers on the Internet and you may not need live help.
+1. Please try using a search engine before asking your question. While we try
+   to help everybody whatever their question, there are many answers on the
+   Internet and you may not need live help.
 
 1. Everyone on this server is a volunteer. We forbid monetary offers outside of
    job listings in #hire-people, which has very strict rules.
