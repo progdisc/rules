@@ -104,9 +104,10 @@ Every listing in #hire-people will adhere to these minimum requirements:
 
 * Whether the position is direct-hire or contract,
 
-* Not be a request for an academic integrity violation or a subcontract, Do
-  not write "DM if interested." Respond to questions on the server. Your post
-  implies that they can DM you if they choose to.
+* Not be a request for an academic integrity violation or a subcontract,
+
+* Do not write "DM if interested." Respond to questions on the server. 
+  Your post implies that they can DM you if they choose to.
 
 **Job posters**: Any post that does not conform to these rules will be removed
 and the poster will be warned/disciplined as appropriate. Keep in mind that
