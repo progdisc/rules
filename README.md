@@ -40,15 +40,13 @@ people for programming help in DMs.
    every channel.
 
 1. Post your question in one and only one channel before waiting for a
-   response.
-
-1. Cross posting will not get you an answer sooner, and it will split the
+   response.<br>
+   Cross posting will not get you an answer sooner, and it will split the
    discussion into redundant and/or conflicting answers. Directing people to
    your question is a better strategy than reposting it.
 
-1. No unsolicited DMs. Do not DM other users for help regarding programming.
-
-1. The Mods cannot moderate DMs,it is better for your learning to have as many
+1. No unsolicited DMs. Do not DM other users for help regarding programming.<br>
+   The Mods cannot moderate DMs,it is better for your learning to have as many
    eyes on the problem as possible, and silent others may benefit from your
    questions’ answers.
 
@@ -92,33 +90,32 @@ people for programming help in DMs.
  
 Every listing in #hire-people will adhere to these minimum requirements: 
 
-1. A functional link to an official job posting without link shortening (we
+* A functional link to an official job posting without link shortening (we
    make allowances here for peer-to-peer gigs, but a link is preferred),
 
-1. A specific, numeric budget or salary range that is neither 0 nor insultingly
+* A specific, numeric budget or salary range that is neither 0 nor insultingly
    low.
 
-1. The name of the person or company soliciting the position,
+* The name of the person or company soliciting the position,
 
-1. The work location or if remote is an option
+* The work location or if remote is an option
 
-1. Whether visa sponsorship is available,
+* Whether visa sponsorship is available,
 
-1. Whether the position is direct-hire or contract,
+* Whether the position is direct-hire or contract,
 
-1. Not be a request for an academic integrity violation or a subcontract, Do
-   not write "DM if interested." Respond to questions on the server. Your post
-   implies that they can DM you if they choose to.
+* Not be a request for an academic integrity violation or a subcontract, Do
+  not write "DM if interested." Respond to questions on the server. Your post
+  implies that they can DM you if they choose to.
 
-1. Job posters: Any post that does not conform to these rules will be removed
-   and the poster will be warned/disciplined as appropriate. Keep in mind that
-   these are minimum requirements. You are encouraged to exceed them.
+**Job posters**: Any post that does not conform to these rules will be removed
+and the poster will be warned/disciplined as appropriate. Keep in mind that
+these are minimum requirements. You are encouraged to exceed them.
 
-1. Job seekers: Remember to protect yourself. The server is not liable if you
-   get scammed, but you are encouraged to come forward to a Mod if a job poster
-   is dishonest. We will definitely discipline them as appropriate.
-   Additionally, in this context, personal information should be exchanged via
-   DM.
+**Job seekers**: Remember to protect yourself. The server is not liable if you
+get scammed, but you are encouraged to come forward to a Mod if a job poster
+is dishonest. We will definitely discipline them as appropriate.
+Additionally, in this context, personal information should be exchanged via DM.
 
 ## Forms of punishment
 
