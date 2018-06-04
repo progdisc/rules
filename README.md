@@ -64,10 +64,10 @@ people for programming help in DMs.
 
 1. Some channels have additional rules, specified below.
 
-1. These rules are not up for personal interpretations. There are no loopholes
-   or technicalities. Mods enforce these rules according to the spirit of these
-   rules, and arguing that some bad behavior is not covered by these rules may
-   lead to a kick/ban.
+These rules are not up for personal interpretations. There are no loopholes
+or technicalities. Mods enforce these rules according to the spirit of these
+rules, and arguing that some bad behavior is not covered by these rules may
+lead to a kick/ban.
 
 ## #security channel
 
@@ -136,9 +136,9 @@ Additionally, in this context, personal information should be exchanged via DM.
 1. **Permanent ban:** Permanent ban. Applied when the breaking of the rules is
    too extreme or after several repeated offenses.
 
-1. All of the disciplinary actions above can be appealed. Speak with a Mod
-   after a change of heart, or after careful consideration if you wish to
-   accuse a Mod of abuse.
+All of the disciplinary actions above can be appealed. Speak with a Mod
+after a change of heart, or after careful consideration if you wish to
+accuse a Mod of abuse.
 
 ## Helpers
 
