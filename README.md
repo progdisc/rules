@@ -1,9 +1,11 @@
-**tl;dr:** Be nice. Be mature. Follow the law. Listen
+## Too Long; Didn't Read
+
+- Be nice. Be mature. Follow the law. Listen
 to the mods. Ask your question directly (*don't ask to
 ask*) and don't post across multiple channels or ask
 people for programming help in DMs.
 
-## In full
+## Rules
 
 1. Follow the Discord service guidelines: <https://discordapp.com/guidelines>
    
@@ -64,7 +66,7 @@ people for programming help in DMs.
 
 15. Some channels have additional rules, specified below.
 
-These rules are not up for personal interpretations. There are no loopholes
+- These rules are not up for personal interpretations. There are no loopholes
 or technicalities. Mods enforce these rules according to the spirit of these
 rules, and arguing that some bad behavior is not covered by these rules may
 lead to a kick/ban.
@@ -88,32 +90,32 @@ lead to a kick/ban.
 
 ## #hire-people channel
  
-Every listing in #hire-people will adhere to these minimum requirements: 
+- Every listing in #hire-people will adhere to these minimum requirements: 
 
-* A functional link to an official job posting without link shortening (we
+1. A functional link to an official job posting without link shortening (we
    make allowances here for peer-to-peer gigs, but a link is preferred),
 
-* A specific, numeric budget or salary range that is neither 0 nor insultingly
+2. A specific, numeric budget or salary range that is neither 0 nor insultingly
    low.
 
-* The name of the person or company soliciting the position,
+3. The name of the person or company soliciting the position,
 
-* The work location or if remote is an option
+4. The work location or if remote is an option
 
-* Whether visa sponsorship is available,
+5. Whether visa sponsorship is available,
 
-* Whether the position is direct-hire or contract,
+6. Whether the position is direct-hire or contract,
 
-* Not be a request for an academic integrity violation or a subcontract,
+7. Not be a request for an academic integrity violation or a subcontract,
 
-* Do not write "DM if interested." Respond to questions on the server. 
+8. Do not write "DM if interested." Respond to questions on the server. 
   Your post implies that they can DM you if they choose to.
 
-**Job posters**: Any post that does not conform to these rules will be removed
+- **Job posters**: Any post that does not conform to these rules will be removed
 and the poster will be warned/disciplined as appropriate. Keep in mind that
 these are minimum requirements. You are encouraged to exceed them.
 
-**Job seekers**: Remember to protect yourself. The server is not liable if you
+- **Job seekers**: Remember to protect yourself. The server is not liable if you
 get scammed, but you are encouraged to come forward to a Mod if a job poster
 is dishonest. We will definitely discipline them as appropriate.
 Additionally, in this context, personal information should be exchanged via DM.
@@ -136,7 +138,7 @@ Additionally, in this context, personal information should be exchanged via DM.
 5. **Permanent ban:** Permanent ban. Applied when the breaking of the rules is
    too extreme or after several repeated offenses.
 
-All of the disciplinary actions above can be appealed. Speak with a Mod
+- All of the disciplinary actions above can be appealed. Speak with a Mod
 after a change of heart, or after careful consideration if you wish to
 accuse a Mod of abuse.
 
