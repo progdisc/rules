@@ -5,7 +5,7 @@ const DISCORD_GUILD = '238666723824238602';
 const DISCORD_CHANNEL = '453335797832089631';
 const ORDERED_LIST_REGEX = new RegExp('[0-9]+.(.*)');
 
-const tokenFactory = () => 'token_gathering_method_here';
+const tokenFactory = () => process.env.DISCORD_TOKEN;
 const DISCORD_TOKEN = tokenFactory();
 
 const getMarkdownText = async () => (
@@ -106,11 +106,12 @@ client.on('ready', async () => {
         for (let k = 0; k < embedTexts[i].length; k++) {
             let embed = new discord.RichEmbed();
             if (k === 0) {
-                embed.setAuthor(guild.name, guild.iconURL, 'https://progdisc.club');
-                embed.setTitle(title);
+                const mdFragment = title.toLowerCase().replace(/ /g, '-').replace('#', '');
+                embed.setAuthor(title, guild.iconURL, `https://progdisc.club/rules/#${mdFragment}`);
             }
 
             if (i === 0) {
+                embed.setAuthor(guild.name, guild.iconURL, 'https://progdisc.club');
                 embed.setFooter('Updated on');
                 embed.setTimestamp(new Date());
             }
