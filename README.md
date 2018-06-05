@@ -15,7 +15,7 @@ people for programming help in DMs.
    that someone else asks you to cease.
 
 3. Memes and shitposts are not allowed outside of #off-topic, and they are
-   discouraged in general. Excessive meme/shitpost spam will lead to kick/ban.
+   discouraged in general. Excessive meme/shitpost spam will lead to a kick/ban.
 
 4. Post your questions directly if you want help, without fear. Please do not
    ask for explicit permission; that is unnecessary and forces people to wait
@@ -48,7 +48,7 @@ people for programming help in DMs.
     your question is a better strategy than reposting it.
 
 12. No unsolicited DMs. Do not DM other users for help regarding programming.<br>
-    The Mods cannot moderate DMs,it is better for your learning to have as many
+    The Mods cannot moderate DMs. It is better for your learning to have as many
     eyes on the problem as possible, and silent others may benefit from your
     questions’ answers.
 
