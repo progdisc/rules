@@ -36,7 +36,7 @@ const parseMarkdownToSegments = (text) => {
             const el = match[1].trim();
             segments[segmentIndex].push({ bullet: false, text: el });
         } else if (line.startsWith('-')) {
-            const el = line.split('-')[1].trim();
+            const el = line.split('-').slice(1).join('-').trim();
             segments[segmentIndex].push({ bullet: true, text: el });
         } else {
             segments[segmentIndex][segments[segmentIndex].length - 1].text += ` ${line}`;
@@ -73,7 +73,7 @@ const segmentsToEmbeds = (segments) => {
                 parts.push(actualText);
                 size = actualText.length;
             } else {
-                parts[parts.length - 1] += `\n${actualText}`;
+                parts[parts.length - 1] += `\n\n${actualText}`;
                 size += actualText.length + 1;
             }
         }
