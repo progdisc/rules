@@ -2,7 +2,7 @@ const fs = require('fs');
 const discord = require('discord.js');
 const DISCORD_MAX_DESCRIPTION_LENGTH = 2048;
 const DISCORD_GUILD = '238666723824238602';
-const DISCORD_CHANNEL = '453335797832089631';
+const DISCORD_CHANNEL = '308772291863642112';
 const ORDERED_LIST_REGEX = new RegExp('[0-9]+.(.*)');
 
 const tokenFactory = () => process.env.DISCORD_TOKEN;
@@ -99,6 +99,8 @@ client.on('ready', async () => {
     const markdownText = await getMarkdownText();
     const segments = parseMarkdownToSegments(markdownText);
     const embedTexts = segmentsToEmbeds(segments);
+
+    await Promise.all((await channel.fetchMessages({ limit: 100 })).deleteAll());
 
     let i = 0;
     for (const segment of segments) {
