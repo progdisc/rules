@@ -125,5 +125,7 @@ client.on('ready', async () => {
 
         i++;
     }
+
+    process.exit(0);
 });
 client.login(DISCORD_TOKEN);
