@@ -4,6 +4,7 @@
 to the mods. Ask your question directly (*don't ask to
 ask*) and don't post across multiple channels or ask
 people for programming help in DMs.
+- For more information, visit <https://progdisc.club>
 
 ## Rules
 
