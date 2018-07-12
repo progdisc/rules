@@ -112,12 +112,6 @@ client.on('ready', async () => {
                 embed.setAuthor(title, guild.iconURL, `https://progdisc.club/rules/#${mdFragment}`);
             }
 
-            if (i === 0) {
-                embed.setAuthor(guild.name, guild.iconURL, 'https://progdisc.club');
-                embed.setFooter('Updated on');
-                embed.setTimestamp(new Date());
-            }
-
             embed.setColor('#4286F4');
             embed.setDescription(embedTexts[i][k]);
             await channel.send('', embed);
