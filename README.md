@@ -1,13 +1,3 @@
-## Welcome to Programming Discussions!
-
-- Welcome to Programming Discussions. Below you will find the rules and necessary
-   information about our Discord server. We encourage you to have a look before
-   continuing.
-
-- For more information, visit <https://progdisc.club/>
-
-- You can use <https://invite.progdisc.club> to invite your friends!
-
 ## Rules
 
 1. Follow the Discord service guidelines: <https://discordapp.com/guidelines>
@@ -181,3 +171,5 @@ accuse a Mod of abuse.
 to the mods. Ask your question directly (*don't ask to
 ask*) and don't post across multiple channels or ask
 people for programming help in DMs.
+
+- For more information, visit <https://progdisc.club>
