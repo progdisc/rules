@@ -1,10 +1,12 @@
-## Too Long; Didn't Read
+## Welcome to Programming Discussions!
 
-- Be nice. Be mature. Follow the law. Listen
-to the mods. Ask your question directly (*don't ask to
-ask*) and don't post across multiple channels or ask
-people for programming help in DMs.
-- For more information, visit <https://progdisc.club>
+- Welcome to Programming Discussions. Below you will find the rules and necessary
+   information about our Discord server. We encourage you to have a look before
+   continuing.
+
+- For more information, visit <https://progdisc.club/>
+
+- You can use <https://invite.progdisc.club> to invite your friends!
 
 ## Rules
 
@@ -172,3 +174,10 @@ accuse a Mod of abuse.
 
 4. If you disagree with the actions of a Mod, first take it to that Mod’s DMs.
    You may follow up with another Mod if you still feel unsatisfied.
+
+## Too Long; Didn't Read
+
+- Be nice. Be mature. Follow the law. Listen
+to the mods. Ask your question directly (*don't ask to
+ask*) and don't post across multiple channels or ask
+people for programming help in DMs.
