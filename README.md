@@ -36,7 +36,8 @@ people for programming help in DMs.
    nicknames).  Do not post or discuss piracy content. Do not post or discuss
    political content.
 
-9. No unsolicited advertisement (invite links, referral links, etc.)
+9. No advertisement (invite links, referral links, etc.) unless explicitly asked,
+   in which case links can be sent through personal messages.
 
 10. If you are having trouble deciding which channel to post in, choose whatever
     is closest. We are lenient about channel separation because everyone is in
