@@ -36,8 +36,10 @@ people for programming help in DMs.
    nicknames).  Do not post or discuss piracy content. Do not post or discuss
    political content.
 
-9. No advertisement (invite links, referral links, etc.) unless explicitly asked,
-   in which case links can be sent through personal messages.
+9. No advertisement (commercial products, referral links, etc.) unless
+   explicitly asked, in which case links can be sent through personal messages.
+   Discord server invite links will be removed automatically by Safety Jim for
+   anti-spam measures, you must ask a moderator to share your server for you.
 
 10. If you are having trouble deciding which channel to post in, choose whatever
     is closest. We are lenient about channel separation because everyone is in
