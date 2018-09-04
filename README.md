@@ -1,11 +1,3 @@
-## Too Long; Didn't Read
-
-- Be nice. Be mature. Follow the law. Listen
-to the mods. Ask your question directly (*don't ask to
-ask*) and don't post across multiple channels or ask
-people for programming help in DMs.
-- For more information, visit <https://progdisc.club>
-
 ## Rules
 
 1. Follow the Discord service guidelines: <https://discordapp.com/guidelines>
@@ -173,3 +165,12 @@ accuse a Mod of abuse.
 
 4. If you disagree with the actions of a Mod, first take it to that Mod’s DMs.
    You may follow up with another Mod if you still feel unsatisfied.
+
+## Too Long; Didn't Read
+
+- Be nice. Be mature. Follow the law. Listen
+to the mods. Ask your question directly (*don't ask to
+ask*) and don't post across multiple channels or ask
+people for programming help in DMs.
+
+- For more information, visit <https://progdisc.club>
