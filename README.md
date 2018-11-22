@@ -9,7 +9,7 @@ people for programming help in DMs.
 ## Rules
 
 1. Follow the Discord service guidelines: <https://discordapp.com/guidelines>
-   
+
 2. This is a welcoming community. All forms of abuse, belittlement, and
    rudeness are strictly forbidden. This includes unsubstantiated
    language/technology bashing, unprompted aggression, and anything unpleasant
@@ -20,14 +20,13 @@ people for programming help in DMs.
 
 4. Post your questions directly if you want help, without fear. Please do not
    ask for explicit permission; that is unnecessary and forces people to wait
-   for your return. 
+   for your return.
 
 5. Please try using a search engine before asking your question. While we try
    to help everybody whatever their question, there are many answers on the
    Internet and you may not need live help.
 
-6. Everyone on this server is a volunteer. We forbid monetary offers outside of
-   job listings in #hire-people, which has very strict rules.
+6. Everyone on this server is a volunteer. We forbid monetary offers.
 
 7. We do not help with breaking the law or breaching any software, API’s or
    Terms of Service.
@@ -90,37 +89,10 @@ lead to a kick/ban.
 5. Breaking any of these #security rules will get you banned from this channel
    on first offense.
 
-## #hire-people channel
- 
-- Every listing in #hire-people will adhere to these minimum requirements: 
+## Job Seekers and Job Posters
 
-1. A functional link to an official job posting without link shortening (we
-   make allowances here for peer-to-peer gigs, but a link is preferred),
-
-2. A specific, numeric budget or salary range that is neither 0 nor insultingly
-   low.
-
-3. The name of the person or company soliciting the position,
-
-4. The work location or if remote is an option
-
-5. Whether visa sponsorship is available,
-
-6. Whether the position is direct-hire or contract,
-
-7. Not be a request for an academic integrity violation or a subcontract,
-
-8. Do not write "DM if interested." Respond to questions on the server. 
-  Your post implies that they can DM you if they choose to.
-
-- **Job posters**: Any post that does not conform to these rules will be removed
-and the poster will be warned/disciplined as appropriate. Keep in mind that
-these are minimum requirements. You are encouraged to exceed them.
-
-- **Job seekers**: Remember to protect yourself. The server is not liable if you
-get scammed, but you are encouraged to come forward to a Mod if a job poster
-is dishonest. We will definitely discipline them as appropriate.
-Additionally, in this context, personal information should be exchanged via DM.
+Progdisc is focused on learning and discussion, not a grounds for recruitment.
+We recommend you check out <https://www.reddit.com/r/forhire/> instead.
 
 ## Forms of punishment
 
@@ -162,7 +134,7 @@ accuse a Mod of abuse.
    role is voluntary and can be abandoned at any time.
 
 ## Mods
- 
+
 1. The Mods are the managers of the server and they enforce the rules.
 
 2. The Mods may be contacted at any time via DM to discuss issues with anything
