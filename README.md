@@ -57,9 +57,9 @@ people for programming help in DMs.
     issues._
 
 13. If you are a student, we will follow academic honesty guidelines and refrain
-    from helping where would be unethical for us to do so, such as on homework
-    or exams. In the same vein, we will not provide help for ongoing
-    competitions that forbid seeking outside help.
+    from helping where would be unethical for us to do so, such as exams or graded 
+    class assignments (homework is allowed within reason). In the same vein, we will
+    not provide help for ongoing competitions that forbid seeking outside help.
 
 14. Ask specific questions about your issue, and respect that everyone in this
     server is a volunteer. We are not servants who will write your programs for
