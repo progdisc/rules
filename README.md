@@ -57,7 +57,7 @@ people for programming help in DMs.
     issues._
 
 13. If you are a student, we will follow academic honesty guidelines and refrain
-    from helping where would be unethical for us to do so, such as exams or graded 
+    from helping where it would be unethical for us to do so, such as exams or graded 
     class assignments (homework is allowed within reason). In the same vein, we will
     not provide help for ongoing competitions that forbid seeking outside help.
 
