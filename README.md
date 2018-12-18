@@ -91,7 +91,7 @@ lead to a kick/ban.
 
 ## Job Seekers and Job Posters
 
-Progdisc is focused on learning and discussion, not a grounds for recruitment.
+- Progdisc is focused on learning and discussion, not a grounds for recruitment.
 We recommend you check out <https://www.reddit.com/r/forhire/> instead.
 
 ## Forms of punishment
