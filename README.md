@@ -145,3 +145,8 @@ accuse a Mod of abuse.
 
 4. If you disagree with the actions of a Mod, first take it to that Mod’s DMs.
    You may follow up with another Mod if you still feel unsatisfied.
+
+5. **Don't ping @Mods unless there's an emergency**, e.g. someone spamming or
+   posting/talking about inappropriate content. Remember that we're
+   all volunteers, and mass pinging won't get you help any faster, it'll
+   only come off as disrespectful.
