@@ -78,9 +78,9 @@ lead to a kick/ban.
    pushing any legal boundaries or trying to circumvent any entity’s Terms of
    Service.
 
-2. No pentesting any other entity’s system.
+2. No pentesting any other entity’s system without explicit, proven permission.
 
-3. If you are not sure that something is malicious, assume it is by default.
+3. If you are not sure if something is malicious or not, assume it is by default.
 
 4. If you want help with something that could potentially be used maliciously,
    it is on you to demonstrate exactly how you are using it and why your
