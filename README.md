@@ -69,8 +69,11 @@ people for programming help in DMs.
 
 - These rules are not up for personal interpretations. There are no loopholes
 or technicalities. Mods enforce these rules according to the spirit of these
-rules, and arguing that some bad behavior is not covered by these rules may
-lead to a kick/ban.
+rules and arguing that a certain behavior is not explicitly mentioned in the rules 
+may lead to a kick/ban.
+
+- We reserve the right to kick or ban anyone for any reason. If we feel you're being
+disruptive or a detriment to the culture of the server, we will remove you.
 
 ## #security channel
 
