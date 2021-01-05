@@ -4,7 +4,7 @@
   "description": "Helper script to update rules in the Programming Discussions discord server.",
   "main": "main.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "discord.js": "^11.3.2"
   },
   "devDependencies": {},
