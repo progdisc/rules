@@ -29,7 +29,9 @@ people for programming help in DMs.
 6. Everyone on this server is a volunteer. We forbid monetary offers.
 
 7. We do not help with breaking the law or breaching any software, API’s or
-   Terms of Service.
+   Terms of Service. The following are prohibited, do not ask for help with:
+   sniper bots, shopping bots, ticket bots, sneaker bots, multiplayer game hacks,
+   keyloggers, botnets, phishing, viruses or other malware.
 
 8. Do not post or discuss NSFW/NSFL or illegal content (this includes
    nicknames).  Do not post or discuss piracy content. Do not post or discuss
