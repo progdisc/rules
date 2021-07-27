@@ -1,14 +1,13 @@
 ## Too Long; Didn't Read
 
-- Be nice. Be mature. Follow the law. Listen
-to the mods. Ask your question directly (*don't ask to
-ask*) and don't post across multiple channels or ask
-people for programming help in DMs.
+- Be nice. Be mature. Follow the law. Listen to the mods. Ask your question
+  directly (*don't ask to ask*) and don't post across multiple channels. Don't
+  ask people for programming help in DMs.
 - For more information, visit <https://progdisc.club>
 
 ## Rules
 
-1. Follow the Discord service guidelines: <https://discordapp.com/guidelines>
+1. Follow the Discord service guidelines: <https://discord.com/guidelines>
 
 2. This is a welcoming community. All forms of abuse, belittlement, and
    rudeness are strictly forbidden. This includes unsubstantiated
@@ -18,39 +17,21 @@ people for programming help in DMs.
 3. Memes and shitposts are not allowed outside of #off-topic, and they are
    discouraged in general. Excessive meme/shitpost spam will lead to a kick/ban.
 
-4. Post your questions directly if you want help, without fear. Please do not
-   ask for explicit permission; that is unnecessary and forces people to wait
-   for your return.
+4. Everyone on this server is a volunteer. We forbid monetary offers.
 
-5. Please try using a search engine before asking your question. While we try
-   to help everybody whatever their question, there are many answers on the
-   Internet and you may not need live help.
-
-6. Everyone on this server is a volunteer. We forbid monetary offers.
-
-7. We do not help with breaking the law or breaching any software, API’s or
+5. We do not help with breaking the law or breaching any software, API’s or
    Terms of Service. The following are prohibited, do not ask for help with:
    sniper bots, shopping bots, ticket bots, sneaker bots, multiplayer game hacks,
    keyloggers, botnets, phishing, viruses or other malware.
 
-8. Do not post or discuss NSFW/NSFL or illegal content (this includes
+6. Do not post or discuss NSFW/NSFL or illegal content (this includes
    nicknames).  Do not post or discuss piracy content. Do not post or discuss
    political content.
 
-9. No advertisement (invite links, referral links, etc.) unless explicitly asked,
+7. No advertisement (invite links, referral links, etc.) unless explicitly asked,
    in which case links can be sent through personal messages.
 
-10. If you are having trouble deciding which channel to post in, choose whatever
-    is closest. We are lenient about channel separation because everyone is in
-    every channel.
-
-11. Post your question in one and only one channel before waiting for a
-    response.<br>
-    Cross posting will not get you an answer sooner, and it will split the
-    discussion into redundant and/or conflicting answers. Directing people to
-    your question is a better strategy than reposting it.
-
-12. No unsolicited DMs. Do not DM other users for help regarding programming.<br>
+8.  No unsolicited DMs. Do not DM other users for help regarding programming.<br>
     The Mods cannot moderate DMs. It is better for your learning to have as many
     eyes on the problem as possible, and silent others may benefit from your
     questions’ answers.
@@ -58,16 +39,12 @@ people for programming help in DMs.
     _Note: you are always welcome to message the Mods for any server-related
     issues._
 
-13. If you are a student, we will follow academic honesty guidelines and refrain
+9.  If you are a student, we will follow academic honesty guidelines and refrain
     from helping where it would be unethical for us to do so, such as exams or graded 
     class assignments (homework is allowed within reason). In the same vein, we will
     not provide help for ongoing competitions that forbid seeking outside help.
 
-14. Ask specific questions about your issue, and respect that everyone in this
-    server is a volunteer. We are not servants who will write your programs for
-    you, so we will refrain from helping people who expect spoonfeeding.
-
-15. Some channels have additional rules, specified below.
+10. Some channels have additional rules, specified below.
 
 - These rules are not up for personal interpretations. There are no loopholes
 or technicalities. Mods enforce these rules according to the spirit of these
@@ -76,6 +53,37 @@ may lead to a kick/ban.
 
 - We reserve the right to kick or ban anyone for any reason. If we feel you're being
 disruptive or a detriment to the culture of the server, we will remove you.
+
+- All disciplinary actions can be appealed. Speak with a Mod after a change of heart,
+  or after careful consideration if you wish to accuse a Mod of abuse.
+
+## How to ask a question
+
+1. Post your questions directly if you want help, without fear. Please do not ask
+   questions like "Does anybody know about X?", "Is #channel alive?", "Can anybody
+   help me?". Everyone can see all messages in all channels and lack of new messages
+   in a channel doesn't mean it's "dead" or "inactive".
+
+2. Please try using a search engine before asking your question. While we try
+   to help everybody with whatever their question is, there are many answers on the
+   Internet and you may not need live help.
+
+3. Ask specific questions about your issue, and respect that everyone in this
+   server is a volunteer. We are not servants who will write your programs for
+   you, so we will refrain from helping people who expect spoonfeeding.
+
+4. If you are having trouble deciding which channel to post in, choose whatever
+   is closest. We are lenient about channel separation because everyone is in
+   every channel.
+
+5. Post your question in one and only one channel before waiting for a
+   response.<br>
+   Cross posting will not get you an answer sooner, and it will split the
+   discussion into redundant and/or conflicting answers. Directing people to
+   your question is a better strategy than reposting it.
+
+- <https://www.nohello.com/>
+- <https://codingkilledthecat.wordpress.com/2012/06/26/how-to-ask-for-programming-help/>
 
 ## #security channel
 
@@ -98,28 +106,6 @@ disruptive or a detriment to the culture of the server, we will remove you.
 
 - Progdisc is focused on learning and discussion, not a grounds for recruitment.
 We recommend you check out <https://www.reddit.com/r/forhire/> instead.
-
-## Forms of punishment
-
-1. **Informal warning:** Warning of potential breaking of the rules in chat,
-   usually kept between a Mod and a user. Intended as a precaution.
-
-2. **Formal warning:** Same as above, but will be logged for consideration
-   before future punishments. There is no formal number of warnings required
-   before more serious punishment.
-
-3. **Kick:** The user is expelled from the server, but they are free to return.
-   Kicks will only be issued once per user.
-
-4. **Temporary ban:** Expulsion for a set period of time. Duration of the ban
-   is at the Mod’s discretion.
-
-5. **Permanent ban:** Permanent ban. Applied when the breaking of the rules is
-   too extreme or after several repeated offenses.
-
-- All of the disciplinary actions above can be appealed. Speak with a Mod
-after a change of heart, or after careful consideration if you wish to
-accuse a Mod of abuse.
 
 ## Helpers
 
