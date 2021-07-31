@@ -1,0 +1,18 @@
+name: Publish Rules In Discord
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+jobs:
+  publish-rules:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+          cache: 'npm'
+      - run: npm install
+      - run: npm start
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}

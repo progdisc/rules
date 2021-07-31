@@ -1,13 +1,13 @@
 const fs = require('fs');
 const discord = require('discord.js');
 
-const DISCORD_MAX_DESCRIPTION_LENGTH = 2048;
+const DISCORD_MAX_DESCRIPTION_LENGTH = 4096;
 const DISCORD_GUILD = '238666723824238602';
 const DISCORD_CHANNEL = '308772291863642112';
 const ORDERED_LIST_REGEX = new RegExp('[0-9]+.(.*)');
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
-
-const getMarkdownText = () => fs.readFileSync('README.md', 'utf8');
+const PATH_TO_MARKDOWN = (process.env.GITHUB_WORKSPACE || '.') + '/README.md';
+const getMarkdownText = () => fs.readFileSync(PATH_TO_MARKDOWN, 'utf8');
 
 const parseMarkdownToSegments = text => {
     const lines = text.split('\n')
@@ -81,11 +81,11 @@ const segmentsToEmbeds = (segments) => {
 const client = new discord.Client();
 
 client.on('ready', async () => {
-    const guild = client.guilds.get(DISCORD_GUILD);
+    const guild = client.guilds.cache.get(DISCORD_GUILD);
     if (!guild) {
         process.exit(1);
     }
-    const channel = guild.channels.get(DISCORD_CHANNEL);
+    const channel = guild.channels.cache.get(DISCORD_CHANNEL);
     if (!channel) {
         process.exit(1);
     }
@@ -94,20 +94,21 @@ client.on('ready', async () => {
     const segments = parseMarkdownToSegments(markdownText);
     const embedTexts = segmentsToEmbeds(segments);
     
-    await Promise.all((await channel.fetchMessages({ limit: 20 })).deleteAll());
+    const messagesToDelete = await channel.messages.fetch({ limit: 100 });
+    await Promise.all(messagesToDelete.mapValues((message => message.delete())));
 
     let i = 0;
     for (const segment of segments) {
         const [title, ...rest] = segment;
         for (let k = 0; k < embedTexts[i].length; k++) {
-            let embed = new discord.RichEmbed();
+            let embed = new discord.MessageEmbed();
             if (k === 0) {
                 const mdFragment = title.toLowerCase().replace(/ /g, '-').replace('#', '');
                 embed.setAuthor(title, guild.iconURL, `https://progdisc.club/rules/#${mdFragment}`);
             }
 
             if (i === 0) {
-                embed.setAuthor(guild.name, guild.iconURL, 'https://progdisc.club');
+                embed.setAuthor(guild.name, guild.iconURL(), 'https://progdisc.club');
                 embed.setFooter('Updated on');
                 embed.setTimestamp(new Date());
             }
