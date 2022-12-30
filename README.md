@@ -82,8 +82,8 @@ disruptive or a detriment to the culture of the server, we will remove you.
    discussion into redundant and/or conflicting answers. Directing people to
    your question is a better strategy than reposting it.
 
-- <https://www.nohello.com/>
-- <https://codingkilledthecat.wordpress.com/2012/06/26/how-to-ask-for-programming-help/>
+<https://www.nohello.com/><br>
+<https://codingkilledthecat.wordpress.com/2012/06/26/how-to-ask-for-programming-help/>
 
 ## #security channel
 
