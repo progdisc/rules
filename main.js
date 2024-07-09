@@ -4,7 +4,7 @@ const discord = require('discord.js');
 const DISCORD_MAX_DESCRIPTION_LENGTH = 4096;
 const DISCORD_GUILD = '238666723824238602';
 const DISCORD_CHANNEL = '308772291863642112';
-const ORDERED_LIST_REGEX = new RegExp('[0-9]+.(.*)');
+const ORDERED_LIST_REGEX = /^[0-9]+\.(.*)/;
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 const PATH_TO_MARKDOWN = (process.env.GITHUB_WORKSPACE || '.') + '/README.md';
 const getMarkdownText = () => fs.readFileSync(PATH_TO_MARKDOWN, 'utf8');
@@ -93,7 +93,7 @@ client.on('ready', async () => {
     const markdownText = getMarkdownText();
     const segments = parseMarkdownToSegments(markdownText);
     const embedTexts = segmentsToEmbeds(segments);
-    
+
     const messagesToDelete = await channel.messages.fetch({ limit: 100 });
     await Promise.all(messagesToDelete.mapValues((message => message.delete())));
 
